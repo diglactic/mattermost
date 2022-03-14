@@ -13,7 +13,7 @@
         "TLSOverwriteCiphers": [],
         "UseLetsEncrypt": true,
         "LetsEncryptCertificateCacheFile": "./config/letsencrypt.cache",
-        "Forward80To443": false,
+        "Forward80To443": true,
         "ReadTimeout": 300,
         "WriteTimeout": 300,
         "MaximumLoginAttempts": 10,
