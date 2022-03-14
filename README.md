@@ -2,10 +2,10 @@
 
 > ⚠️ Working Notes
 
-## Setup on Heroku
+## Requirements
 
-- Buildpack: `http://github.com/kr/heroku-buildpack-inline.git`
--
+- Heroku Buildpack: `http://github.com/kr/heroku-buildpack-inline.git`
+- Postgres database
 
 ## Environment
 
